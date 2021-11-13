@@ -15,7 +15,7 @@ Python Client for Cloud Domains
 .. |versions| image:: https://img.shields.io/pypi/pyversions/google-cloud-domains.svg
    :target: https://pypi.org/project/google-cloud-domains/
 .. _Cloud Domains: https://cloud.google.com/domains
-.. _Client Library Documentation: https://googleapis.dev/python/domainslatest
+.. _Client Library Documentation: https://googleapis.dev/python/domains/latest
 .. _Product Documentation:  https://cloud.google.com/domains
 
 Quick Start
@@ -79,4 +79,3 @@ Next Steps
    APIs that we cover.
 
 .. _Cloud Domains Product documentation:  https://cloud.google.com/domains/docs
-.. _README: https://github.com/googleapis/google-cloud-python/blob/master/README.rst
